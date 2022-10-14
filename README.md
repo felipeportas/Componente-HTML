@@ -4,4 +4,4 @@ Essa é a solução encontrada para o desafio de criação de componentes com HT
 
 ### Screenshot
 
-![](.images/screenshot.jpg)
+<img src="/images/screenshot.jpg" alt="screenshot do card">
