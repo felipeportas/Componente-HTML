@@ -4,4 +4,4 @@ Essa é a solução encontrada para o desafio de criação de componentes com HT
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![](.images/screenshot.jpg)
