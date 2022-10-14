@@ -4,4 +4,4 @@ Essa é a solução encontrada para o desafio de criação de componente com HTM
 
 ### Screenshot
 
-<img src="/screenshot.jpg" alt="screenshot do card">
+<img src="/screenshot.jpg" alt="Sscreenshot do card do projeto"/>
